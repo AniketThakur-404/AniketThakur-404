@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @AniketThakur-404
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+MY TECH STACK
+HTML
+CSS 
+JAVASCRIPT
+REACT
+TAILWIND
+
+SKILLS I KNOW WITHOUT ANY MAJOR PROJECT
+PHP
+DBMS
+SSAD
+PYTHON 
+C++
+JAVA
+BASIC DSA
 
 <!---
 AniketThakur-404/AniketThakur-404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
